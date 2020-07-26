@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Aisyah 👋
 
 - 🔭 Kindly visit my latest project, [Alterra Academy Online Learning](https://alta-learning.vercel.app/).
 - 🌱 I’m a FrontEnd enthusiast, developing with JavaScript, ReactJS, NextJS, Python Flask.
